@@ -41,9 +41,9 @@ youtuber **DougDoug** to every thumbnail.
 [Button Download Edge]: http://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logoColor=white&logo=MicrosoftEdge
 
 
-[Download Firefox]: http://addons.mozilla.org/en-GB/firefox/addon/youtube-DougDougify/
-[Download Chrome]: http://chrome.google.com/webstore/detail/youtube-DougDougify/dbmaeobgdodeimjdjnkipbfhgeldnmeb
-[Download Edge]: http://microsoftedge.microsoft.com/addons/detail/youtube-DougDougify/jabaaojkmmljhmnheeihppepcmiadhll
+[Download Firefox]: http://addons.mozilla.org/en-GB/firefox/addon/youtube-dougdougify/
+[Download Chrome]: http://chromewebstore.google.com/detail/youtube-dougdougify/moiocmcmmkcajpjmhfijfegdddfiaone
+[Download Edge]: http://microsoftedge.microsoft.com/addons/detail/youtube-DougDougify/dhdjnficlnmdcjhjiggcmcihnhcobonn
 
 [UI MrBeastify]: http://github.com/MagicJinn/MrBeastify-Youtube
 [UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
