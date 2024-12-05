@@ -1,4 +1,10 @@
 {
     "useAlternativeImages": false,
-    "blacklistedImages": [85, 117, 121, 129]
+    "blacklistedImages": [
+        85,
+        117,
+        121,
+        129,
+        149
+    ]
 }
