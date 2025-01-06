@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "YouTube DougDougify",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "icons": {
         "96": "icon.png"
     },
